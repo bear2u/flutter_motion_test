@@ -1,6 +1,6 @@
-# figma_motion_test_example
+# flutter_figma_motion example
 
-Demonstrates how to use the figma_motion_test plugin.
+Demonstrates how to use the flutter_figma_motion package.
 
 ## Getting Started
 

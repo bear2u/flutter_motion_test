@@ -1,4 +1,4 @@
-import 'package:figma_motion_test/figma_motion_test.dart';
+import 'package:flutter_figma_motion/flutter_figma_motion.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:figma_motion_test_example/main.dart';
+import 'package:flutter_figma_motion_example/main.dart';
 
 void main() {
   testWidgets('loads the Figma Motion JSON sample', (tester) async {

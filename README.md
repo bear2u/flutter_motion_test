@@ -1,4 +1,4 @@
-# figma_motion_test
+# flutter_figma_motion
 
 Play Figma Motion Dev Mode JSON with Flutter widgets.
 
