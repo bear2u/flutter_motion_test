@@ -2,8 +2,15 @@
 
 Play Figma Motion Dev Mode JSON with Flutter widgets.
 
+[Pub.dev package](https://pub.dev/packages/flutter_figma_motion)
+
 This package does not generate Flutter UI from Figma. It reads the Motion JSON
 export and applies the animation tracks to Flutter widgets you already built.
+
+```yaml
+dependencies:
+  flutter_figma_motion: ^0.0.1
+```
 
 ## What It Does
 
