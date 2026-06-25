@@ -1,8 +1,8 @@
 name: flutter_figma_motion
 description: Flutter widgets for playing Figma Motion Dev Mode JSON animations.
-version: 0.0.1
-repository: https://github.com/bear2u/flutter_motion_test
-issue_tracker: https://github.com/bear2u/flutter_motion_test/issues
+version: 0.0.2
+repository: https://github.com/bear2u/flutter_figma_motion
+issue_tracker: https://github.com/bear2u/flutter_figma_motion/issues
 
 environment:
   sdk: ^3.12.1
